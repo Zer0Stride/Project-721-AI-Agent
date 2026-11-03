@@ -4,7 +4,7 @@
 **Opsteller:** Projectteam 721 — Jesmar Oosterom en overige teamleden  
 **Type registratie:** terugblik op ontvangen refinementfeedback, achteraf vastgelegd  
 **Datum sessie:** 03-11-2026  
-**Aanwezigen:** nog in te vullen
+**Aanwezigen:** iedereen (volledige projectgroep volgens opgave van het team; individuele namen niet gespecificeerd)
 
 ## Aanleiding en doel
 
