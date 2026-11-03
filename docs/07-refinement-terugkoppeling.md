@@ -56,7 +56,8 @@ Dit is een **toelichtend voorbeeld met fictieve gegevens** dat laat zien hoe de 
 ## Wat is vastgesteld en wat moet nog worden aangevuld?
 
 - **Door teamlid bevestigd:** de vijf aandachtspunten hierboven stemmen overeen met daadwerkelijk ontvangen feedback.
-- **Niet gedocumenteerd in deze repository:** datum en volledige aanwezigenlijst van die sessie, originele notulen en woordelijke uitspraken.
+- **Wel vastgelegd:** de sessiedatum is 3 november 2026 en volgens de teamopgave was de volledige projectgroep aanwezig.
+- **Niet gedocumenteerd in deze repository:** individuele namenlijst, originele notulen en woordelijke uitspraken.
 - **Niet automatisch bewezen door dit verslag:** dat de Copilot-agent tijdens die specifieke sessie is gedemonstreerd, dat precies deze voorbeeldstory toen is gegenereerd of dat een wijziging door de opdrachtgever is goedgekeurd.
 
 Om de Sprint 3-eis **'bespreek de agent tijdens refinement'** aantoonbaar te maken, kan het team de echte datum, de aanwezigen, de besproken agentoutput en de genomen besluiten toevoegen zodra die gegevens zijn gecontroleerd.
