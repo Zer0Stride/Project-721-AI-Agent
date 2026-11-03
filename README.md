@@ -72,6 +72,7 @@ De **doorslaggevende vraag** bij refinement is: *Leveren deze userstory's daadwe
 - [Userstory-template](templates/userstory.md)
 - [Refinementformulier](templates/refinement.md)
 - [Publicatiechecklist](PUBLICATIECHECK.md)
+- [Canvas-inlevertekst](CANVAS_INLEVERING.md)
 
 ## Transparantie
 
