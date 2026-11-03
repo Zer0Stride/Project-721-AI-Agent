@@ -7,7 +7,7 @@
 
 Organisatiespecifieke AI Backlog Refinement Agent — Sprint 3
 
-## Beschrijving voor Canvas
+## Projectbeschrijving
 
 Voor Sprint 3 heeft Projectteam 721 een organisatiespecifieke AI-agent gebouwd in **Microsoft 365 Copilot**. De agent helpt het Scrumteam om businessdoelen en de Product Goal om te zetten naar **kandidaat-userstory's, acceptatiecriteria (Given/When/Then) en uitvoerbare taken**.
 
