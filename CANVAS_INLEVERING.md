@@ -21,11 +21,11 @@ https://github.com/Zer0Stride/Project-721-AI-Agent
 
 ## Projectonderdelen
 
-- [README: projectoverzicht](README.md)
-- [Ontwikkelproces](docs/01-ontwikkelproces.md)
-- [Promptontwerp en zes vaardigheden](docs/02-promptontwerp.md)
-- [Refinementfeedback](docs/07-refinement-terugkoppeling.md)
-- [Feedback verwerkt in zesde skill](docs/08-refinement-skill.md)
-- [Geanonimiseerd resultaat van echte Copilot-test](docs/09-copilot-testresultaat.md)
-- [Uitvoerbare demonstratie](demo/generate.py)
-- [Automatische tests](tests/test_generate.py)
+- [README: projectoverzicht](https://github.com/Zer0Stride/Project-721-AI-Agent/blob/main/README.md)
+- [Ontwikkelproces](https://github.com/Zer0Stride/Project-721-AI-Agent/blob/main/docs/01-ontwikkelproces.md)
+- [Promptontwerp en zes vaardigheden](https://github.com/Zer0Stride/Project-721-AI-Agent/blob/main/docs/02-promptontwerp.md)
+- [Refinementfeedback](https://github.com/Zer0Stride/Project-721-AI-Agent/blob/main/docs/07-refinement-terugkoppeling.md)
+- [Feedback verwerkt in zesde skill](https://github.com/Zer0Stride/Project-721-AI-Agent/blob/main/docs/08-refinement-skill.md)
+- [Geanonimiseerd resultaat van echte Copilot-test](https://github.com/Zer0Stride/Project-721-AI-Agent/blob/main/docs/09-copilot-testresultaat.md)
+- [Uitvoerbare demonstratie](https://github.com/Zer0Stride/Project-721-AI-Agent/blob/main/demo/generate.py)
+- [Automatische tests](https://github.com/Zer0Stride/Project-721-AI-Agent/blob/main/tests/test_generate.py)
