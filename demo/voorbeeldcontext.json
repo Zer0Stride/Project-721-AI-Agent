@@ -1,0 +1,21 @@
+{
+  "fictief": true,
+  "organisatieprofiel": "Fictieve onderzoeksgroep die een demonstratieomgeving gebruikt.",
+  "businessdoel": "Verminder handmatige stappen en maak de voortgang van testtaken inzichtelijk.",
+  "product_goal": "Een eenvoudige omgeving om testtaken op synthetische gegevens te starten en te volgen.",
+  "sprintdoel": "Toon een gebruikersflow van start tot resultaat.",
+  "bestaande_backlog": [
+    {
+      "titel": "Startpagina van de voorbeeldomgeving ontwerpen",
+      "status": "Done"
+    },
+    {
+      "titel": "Synthetische voorbeeldgegevens voorbereiden",
+      "status": "Todo"
+    },
+    {
+      "titel": "Instructies voor de demonstratie schrijven",
+      "status": "In Progress"
+    }
+  ]
+}
