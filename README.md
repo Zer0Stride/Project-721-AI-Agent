@@ -21,7 +21,7 @@ De agent is gemaakt met eigen instructies, **vijf oorspronkelijke gespecialiseer
 
 ## Van projectdoel naar refinement
 
-\`\`\`text
+```text
 Businessdoel + Product Goal + (optioneel) Sprint Goal
                          |
                 Copilot-agent + skills
@@ -33,16 +33,16 @@ Businessdoel + Product Goal + (optioneel) Sprint Goal
                Kritische refinement
                          |
             Scrumteam neemt besluit
-\`\`\`
+```
 
 ## Werkende demonstratie
 
 Naast de Copilot-agent bevat deze repository een **reproduceerbare Python-demo met volledig fictieve gegevens**. Je kunt lokaal zien hoe het gewenste storyformat en de controle op dubbele backlogtitels werken. Dit script is een **offline demonstratie**, niet de onderliggende generatieve Copilot-agent.
 
-\`\`\`bash
+```bash
 python demo/generate.py --input demo/voorbeeldcontext.json
 python -m unittest discover -s tests -v
-\`\`\`
+```
 
 Dezelfde demo en tests draaien automatisch via [GitHub Actions](.github/workflows/demo-tests.yml).
 
