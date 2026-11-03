@@ -4,7 +4,7 @@
 
 **1. Introductie.** Leg uit hoe de agent Projectteam 721 helpt om van businessdoel naar een testbare story te komen.
 
-**2. Agent tonen.** Open Microsoft 365 Copilot. Toon de agent, zijn drie voorgestelde prompts en de vijf oorspronkelijke skills en, na upload, de aanvullende refinementskill. Houd de projectinterne inhoud afgeschermd.
+**2. Agent tonen.** Open Microsoft 365 Copilot. Toon de agent, zijn drie voorgestelde prompts en alle zes toegevoegde skills, waaronder de refinementfeedback-skill. Houd de projectinterne inhoud afgeschermd.
 
 **3. Generatie.** Vraag de agent met **goedgekeurde of fictieve** context om een kandidaat-userstory inclusief acceptatiecriteria en taken.
 
