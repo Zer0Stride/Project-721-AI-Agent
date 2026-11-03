@@ -17,7 +17,7 @@ Projectteam 721 heeft een **organisatiespecifieke AI-agent in Microsoft 365 Copi
 - mogelijke overlap met bestaand werk te signaleren;
 - vragen voor een **refinement** voor te bereiden.
 
-De agent is gemaakt met eigen instructies, **vijf oorspronkelijke gespecialiseerde vaardigheden (met een zesde vaardigheid voor refinementfeedback die apart kan worden toegevoegd)** en **drie voorgestelde prompts**. De projectgebonden kennis en interne documenten zijn bewust **niet in deze repository gepubliceerd**.
+De agent is gemaakt met eigen instructies, **zes toegevoegde vaardigheden** (waaronder de refinementfeedback-skill van 3 november 2026) en **drie voorgestelde prompts**. De projectgebonden kennis en interne documenten zijn bewust **niet in deze repository gepubliceerd**.
 
 ## Van projectdoel naar refinement
 
@@ -52,7 +52,7 @@ Dezelfde demo en tests draaien automatisch via [GitHub Actions](.github/workflow
 |---|---|
 | 1. Relevante input bepalen | Gebruikers, businessdoel, Product Goal, Sprint Goal en randvoorwaarden |
 | 2. Instructies opbouwen | Waarde en MVP voorop, maximaal drie stories, expliciete aannames |
-| 3. Vaardigheden toevoegen | Projectcontext, Scrum, technische context, Sprint 3 en backlogmomentopname |
+| 3. Vaardigheden toevoegen | Zes skills: projectcontext, Scrum, technische context, Sprint 3, backlogmomentopname en refinementfeedback |
 | 4. Output structureren | Userstory, 3–5 acceptatiecriteria, taken, risico's en testbewijs |
 | 5. Beoordelen binnen Scrum | Overlap en haalbaarheid bespreken, feedback vastleggen, zo nodig aanscherpen |
 
