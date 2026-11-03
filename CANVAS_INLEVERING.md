@@ -1,4 +1,4 @@
-# Canvas-inlevering — Sprint 3 AI-agent
+# Project 721 — AI Backlog Refinement Agent
 
 **Projectteam 721 · Hogeschool Utrecht**  
 **Makers:** Jesmar Oosterom en de overige leden van Projectteam 721.
