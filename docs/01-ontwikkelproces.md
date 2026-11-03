@@ -22,7 +22,7 @@ De achterliggende projectbestanden blijven in de afgeschermde werkomgeving. In d
 
 ## 2. Agentconfiguratie
 
-In Microsoft 365 Copilot Agent Builder is een agent met een eigen identiteit, instructies, drie voorgestelde prompts en vijf gespecialiseerde basisskills opgezet. Naar aanleiding van ontvangen refinementfeedback is een zesde aanvullende vaardigheid voorbereid.
+In Microsoft 365 Copilot Agent Builder is een agent ingericht met een eigen identiteit, instructies, drie voorgestelde prompts en zes toegevoegde vaardigheden. De zesde vaardigheid verwerkt refinementfeedback van 3 november 2026.
 
 De skills verdelen het werk in projectcontext, Scrum-refinement, technische aandachtspunten, Sprint 3-kwaliteitscontrole en een gedateerde backlogmomentopname.
 
