@@ -1,4 +1,4 @@
-# Promptontwerp en vijf vaardigheden
+# Promptontwerp en zes vaardigheden
 
 ## Promptstructuur
 
