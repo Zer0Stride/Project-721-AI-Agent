@@ -3,7 +3,7 @@
 **Project:** Projectteam 721 · Hogeschool Utrecht  
 **Opsteller:** Projectteam 721 — Jesmar Oosterom en overige teamleden  
 **Type registratie:** terugblik op ontvangen refinementfeedback, achteraf vastgelegd  
-**Datum sessie:** nog in te vullen  
+**Datum sessie:** 03-11-2026  
 **Aanwezigen:** nog in te vullen
 
 ## Aanleiding en doel
