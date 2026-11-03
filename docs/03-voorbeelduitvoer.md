@@ -11,9 +11,9 @@ Deze case gaat over een **volledig fictieve demonstratieomgeving**. De voorbeeld
 
 ## Uitvoerbare demonstratie
 
-\`\`\`bash
+```bash
 python demo/generate.py --input demo/voorbeeldcontext.json
-\`\`\`
+```
 
 De demo produceert kleine stories met:
 
@@ -34,9 +34,9 @@ De demo produceert kleine stories met:
 
 ## Geautomatiseerde controle
 
-\`\`\`bash
+```bash
 python -m unittest discover -s tests -v
-\`\`\`
+```
 
 De tests controleren het storyformat, de aanwezigheid van acceptatiecriteria, duplicate-detectie en de eis dat de demo alleen fictieve gegevens verwerkt.
 
