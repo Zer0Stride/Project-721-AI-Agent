@@ -29,7 +29,7 @@ Zoek naar relevante bestaande items en afhankelijkheden. Vermeld de beschikbare 
 **3 · Bereid een refinement voor**  
 Formuleer kritische vragen over waarde, scope, MVP, haalbaarheid, acceptatiecriteria en benodigde besluiten.
 
-## Vijf gespecialiseerde vaardigheden
+## Vaardigheden: vijf basisskills en aanvullende refinementskill
 
 | Skill | Functie |
 |---|---|
@@ -38,5 +38,6 @@ Formuleer kritische vragen over waarde, scope, MVP, haalbaarheid, acceptatiecrit
 | Technische context | Realistische randvoorwaarden en risico's |
 | Sprint 3 | Kritische kwaliteitsmeting en Scrumtoepassing |
 | Backlogmomentopname | Bestaande werkzaamheden en status als referentie |
+| **Refinementfeedback (nieuw)** | Vaste kwaliteitsregels op basis van terugkoppeling van 3 november 2026: waarde, MVP, toetsbaarheid, overlap en veilige testdata |
 
 De originele skills bevatten afgeschermde inhoud. Deze openbare repository legt alleen hun **doel en werkwijze** uit.
