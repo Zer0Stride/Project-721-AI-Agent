@@ -68,12 +68,13 @@ De **doorslaggevende vraag** bij refinement is: *Leveren deze userstory's daadwe
 - [Demo in Sprint Review](docs/06-presentatie.md)
 - [Vastgelegde refinementfeedback](docs/07-refinement-terugkoppeling.md)
 - [Hoe feedback is verwerkt in de zesde Copilot-skill](docs/08-refinement-skill.md)
+- [Resultaat van de echte Copilot-test (geanonimiseerd)](docs/09-copilot-testresultaat.md)
 - [Userstory-template](templates/userstory.md)
 - [Refinementformulier](templates/refinement.md)
 - [Publicatiechecklist](PUBLICATIECHECK.md)
 
 ## Transparantie
 
-De Copilot-agent is ingericht; de openbare demo toont **uitvoerbare controles met synthetische voorbeelden**. Deze repository doet geen ongeverifieerde uitspraken over opdrachtgevergoedkeuring of reeds gehouden refinements. Echte inhoudelijke feedback en screenshots kunnen zo nodig afzonderlijk, binnen de toegestane onderwijsomgeving, worden ingeleverd.
+De Copilot-agent is ingericht en er is een **inhoudelijke test van een echte Copilot-output** vastgelegd. De openbare Python-demo toont daarnaast **uitvoerbare controles met synthetische voorbeelden**. Deze repository doet geen ongeverifieerde uitspraken over opdrachtgevergoedkeuring of reeds gehouden refinements. Echte inhoudelijke feedback en screenshots kunnen zo nodig afzonderlijk, binnen de toegestane onderwijsomgeving, worden ingeleverd.
 
 **Project:** 721 · **Instelling:** Hogeschool Utrecht · **Makers:** Jesmar Oosterom en de overige teamleden.
