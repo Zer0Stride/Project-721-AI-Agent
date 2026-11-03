@@ -3,10 +3,6 @@
 **Projectteam 721 · Hogeschool Utrecht**  
 **Makers:** Jesmar Oosterom en de overige leden van Projectteam 721.
 
-## Titel
-
-Organisatiespecifieke AI Backlog Refinement Agent — Sprint 3
-
 ## Projectbeschrijving
 
 Voor Sprint 3 heeft Projectteam 721 een organisatiespecifieke AI-agent gebouwd in **Microsoft 365 Copilot**. De agent helpt het Scrumteam om businessdoelen en de Product Goal om te zetten naar **kandidaat-userstory's, acceptatiecriteria (Given/When/Then) en uitvoerbare taken**.
@@ -19,11 +15,11 @@ De echte Copilot-agent is getest met een MVP-gerichte opdracht. De aangeleverde 
 
 De GitHub-repository beschrijft de aanpak, promptopbouw en feedbackverwerking en bevat daarnaast een **reproduceerbare offline demonstratie met fictieve gegevens**. De bijbehorende geautomatiseerde tests zijn geslaagd. Vertrouwelijke projectdocumentatie en interne backloggegevens zijn niet opgenomen in de openbare demonstratie.
 
-### Link naar de repository
+## GitHub-repository
 
 https://github.com/Zer0Stride/Project-721-AI-Agent
 
-### Belangrijkste onderdelen voor de beoordeling
+## Projectonderdelen
 
 - [README: projectoverzicht](README.md)
 - [Ontwikkelproces](docs/01-ontwikkelproces.md)
