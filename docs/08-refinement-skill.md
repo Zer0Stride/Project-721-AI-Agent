@@ -37,8 +37,8 @@ Het uitgewerkte voorbeeld bevat daarna observeerbare criteria voor een lopende, 
 
 ## Beschikbaarheid
 
-De zesde skill wordt als afzonderlijk ZIP-bestand (`SKILL.md` plus ondersteunende tekstbestanden) geüpload via **Microsoft 365 Copilot → Agent bewerken → Vaardigheden → Toevoegen**. De projectinterne vaardigheidsbestanden blijven buiten deze voor openbare inzage bedoelde repository.
+De zesde skill is als afzonderlijk ZIP-bestand (`SKILL.md` plus ondersteunende tekstbestanden) toegevoegd via **Microsoft 365 Copilot → Agent bewerken → Vaardigheden → Toevoegen**. De projectinterne vaardigheidsbestanden blijven buiten deze voor openbare inzage bedoelde repository.
 
-**Status:** skillpakket ontworpen en als ZIP opgebouwd. De daadwerkelijke upload, activering en uitkomsten in Microsoft 365 Copilot zijn alleen controleerbaar in de agentomgeving zelf; deze repo claimt die stap niet al te hebben uitgevoerd.
+**Status:** de skill is zichtbaar in de lijst met zes vaardigheden in Microsoft 365 Copilot Agent Builder (screenshot gecontroleerd op 3 november 2026). De resultaten van daadwerkelijke agentantwoorden worden afzonderlijk getest en zijn niet gelijk aan de resultaten van de offline Python-demo.
 
 Zie [vastgelegde refinementfeedback](07-refinement-terugkoppeling.md) voor de bron van deze aanscherping.
