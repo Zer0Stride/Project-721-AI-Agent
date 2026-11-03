@@ -13,4 +13,4 @@ De challenge is vertaald naar een concrete agentopzet en een reproduceerbare voo
 | Aantoonbare Scrumtoepassing | Refinementwerkwijze en Sprint Review-demonstratiescript |
 | Canvas | Openbaar deelbare toelichting, zonder interne documenten |
 
-**Belangrijk voor de beoordeling:** de repository laat de technische en procesmatige aanpak zien. Als een docent bevestiging vraagt van een echte refinementsessie, echte Copilot-antwoorden, een review of feedback, gebruik dan daarvoor de daadwerkelijke screenshots of notities uit de afgeschermde leeromgeving. Een openbare demonstratie wordt niet gepresenteerd als verzonnen bewijs van zulke gebeurtenissen.
+**Afbakening:** deze openbare repository beschrijft de technische en procesmatige aanpak, de vaardigheden en de demonstratie. Interne gesprekken en vertrouwelijke notities worden niet gepubliceerd. De offline Python-demo is geen transcript van de Copilot-agent.
