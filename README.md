@@ -66,6 +66,7 @@ De **doorslaggevende vraag** bij refinement is: *Leveren deze userstory's daadwe
 - [Kwaliteitscontrole en Scrum-refinement](docs/04-scrum-refinement.md)
 - [Aansluiting op Sprint 3-opdracht](docs/05-sprint3.md)
 - [Demo in Sprint Review](docs/06-presentatie.md)
+- [Vastgelegde refinementfeedback](docs/07-refinement-terugkoppeling.md)
 - [Userstory-template](templates/userstory.md)
 - [Refinementformulier](templates/refinement.md)
 - [Publicatiechecklist](PUBLICATIECHECK.md)
