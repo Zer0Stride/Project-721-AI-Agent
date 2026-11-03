@@ -6,8 +6,8 @@ De challenge is vertaald naar een concrete agentopzet en een reproduceerbare voo
 |---|---|
 | Organisatiespecifieke agent | Inrichting in Microsoft 365 Copilot, beschreven in de README |
 | Businessdoelen & Product Goal | Invoervelden, promptarchitectuur en skillontwerp |
-| Userstory's, acceptatiecriteria, taken | Outputformat, uitvoerbare fictieve demo en tests |
-| Kritisch beoordelen op MVP-waarde | Scorekaart met beslisregels |
+| Userstory's, acceptatiecriteria, taken | Outputformat, [inhoudelijk beoordeelde Copilot-output](09-copilot-testresultaat.md) en uitvoerbare fictieve demo |
+| Kritisch beoordelen op MVP-waarde | [Copilot-testbeoordeling](09-copilot-testresultaat.md) met sterke punten en beperkingen |
 | Refinementsessies | Uitgewerkt proces en notitieformulier |
 | Verbeteren na feedback | Herhaalbaar prompt-/feedbackproces |
 | Aantoonbare Scrumtoepassing | Refinementwerkwijze en Sprint Review-demonstratiescript |
