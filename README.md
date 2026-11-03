@@ -17,7 +17,7 @@ Projectteam 721 heeft een **organisatiespecifieke AI-agent in Microsoft 365 Copi
 - mogelijke overlap met bestaand werk te signaleren;
 - vragen voor een **refinement** voor te bereiden.
 
-De agent is gemaakt met eigen instructies, **vijf gespecialiseerde vaardigheden** en **drie voorgestelde prompts**. De projectgebonden kennis en interne documenten zijn bewust **niet in deze repository gepubliceerd**.
+De agent is gemaakt met eigen instructies, **vijf oorspronkelijke gespecialiseerde vaardigheden (met een zesde vaardigheid voor refinementfeedback die apart kan worden toegevoegd)** en **drie voorgestelde prompts**. De projectgebonden kennis en interne documenten zijn bewust **niet in deze repository gepubliceerd**.
 
 ## Van projectdoel naar refinement
 
@@ -67,6 +67,7 @@ De **doorslaggevende vraag** bij refinement is: *Leveren deze userstory's daadwe
 - [Aansluiting op Sprint 3-opdracht](docs/05-sprint3.md)
 - [Demo in Sprint Review](docs/06-presentatie.md)
 - [Vastgelegde refinementfeedback](docs/07-refinement-terugkoppeling.md)
+- [Hoe feedback is verwerkt in de zesde Copilot-skill](docs/08-refinement-skill.md)
 - [Userstory-template](templates/userstory.md)
 - [Refinementformulier](templates/refinement.md)
 - [Publicatiechecklist](PUBLICATIECHECK.md)
